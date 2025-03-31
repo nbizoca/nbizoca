@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I'm looking to collaborate on back-end projects.<br>🎯 I'm currently learning.<br>🌱 I'm a beginner in progress.<br>📚 I'm always eager to learn something new. My philosophy is that I can learn anything, no matter what<br>🌷 I'm 22 years old.
+🤝 I'm looking to collaborate on back-end projects.<br>🎯 I'm currently learning.<br>🌱 I'm a beginner in progress.<br>📚 I'm always eager to learn something new. My philosophy is that I can learn anything, no matter what<br>🌷 I'm 22 years old.<br>🎓I'm currently studying a Technical course in Information Technology at IFPB.<br>
 
 
 ## 🌐 Socials:
