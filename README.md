@@ -61,6 +61,7 @@ Estou aberta a compartilhar conhecimentos, colaborar em projetos e conhecer nova
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:nbeatriz.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/beatriz-gomes-a4239239a)
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/nbizoca)
 </div>
 
